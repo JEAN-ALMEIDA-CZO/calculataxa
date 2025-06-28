@@ -1,10 +1,23 @@
 # 🧮 Calculadora de Taxa de Serviço
 
+[![Licença MIT](https://img.shields.io/badge/Licença-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Problemas Abertos](https://img.shields.io/github/issues/JEAN-ALMEIDA-CZO/calculataxa?color=red)](https://github.com/JEAN-ALMEIDA-CZO/calculataxa/issues)
+[![Último Commit](https://img.shields.io/github/last-commit/JEAN-ALMEIDA-CZO/calculataxa?color=blue)](https://github.com/JEAN-ALMEIDA-CZO/calculataxa/commits)
+
 Uma calculadora simples feita com HTML, CSS e JavaScript para calcular a taxa de serviço (%), muito útil para bares, restaurantes e eventos.
+
+---
+
+## 🌐 Demonstração
+
+Acesse a página de demonstração do projeto para visualizar a calculadora em ação:  
+👉 [**Ver Demonstração**](https://jean-almeida-czo.github.io/calculataxa)
+
+---
 
 ## 📸 Captura de Tela
 
-![Captura](calc_taxa.png) <!-- Adicione uma imagem se quiser -->
+![Captura](calc_taxa.png)
 
 ## 🚀 Funcionalidades
 
@@ -22,5 +35,5 @@ Uma calculadora simples feita com HTML, CSS e JavaScript para calcular a taxa de
 ## 📂 Como usar
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/JEAN-ALMEIDA-CZO/calculataxa.git
+   ```bash
+   git clone https://github.com/JEAN-ALMEIDA-CZO/calculataxa.git
